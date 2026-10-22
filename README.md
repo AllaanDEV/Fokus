@@ -73,3 +73,4 @@ Projeto desenvolvido para praticar conceitos fundamentais de desenvolvimento fro
 
 ## 🔗Link
 https://fokuschronomic.vercel.app/
+---
