@@ -29,7 +29,7 @@ Aplicação web de produtividade que combina uma lista de tarefas com três modo
 1. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone (https://github.com/AllaanDEV/Fokus)
    ```
 
 2. Entre na pasta do projeto:
