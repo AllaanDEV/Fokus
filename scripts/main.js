@@ -34,7 +34,7 @@ longoBt.addEventListener('click', () => {
 });
 
 foco.addEventListener('click', () => {
-    tempoDecorridoEmSegundos=  10
+    tempoDecorridoEmSegundos=  1500
     alterarContexto('foco', foco);
     imagem.setAttribute("src", "./imagens/foco.png")
 
